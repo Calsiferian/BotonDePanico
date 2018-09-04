@@ -1,4 +1,4 @@
-# BotonDePanico
+# Boton De Panico
 Botón de pánico IOT. 
 .
 1.El proyecto tejiendo esperanza que lidera Ana Viviana Espinoza busca bajar los índices de violencia de género en Bogotá siendo consecuente con la segunda meta del ODS “igualdad de género”. El proyecto actualmente desarrolla 3 componentes fundamentales:  una escuela de formación para el empoderamiento de las mujeres como sujetos de derecho, un sistema único de registro que evitará la revictimización, y el ultimo  es una línea de botones de pánico usando el internet de las cosas bajo la filosofía del hardware libre. 
